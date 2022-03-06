@@ -1,4 +1,4 @@
-### Eu sou Fabio e essas sao minhas habilidades;
+### Olá, eu sou Fabio e essas sao minhas habilidades;
 <div align="center">
   <a href="https://github.com/FabioMarquesArao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMarquesArao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

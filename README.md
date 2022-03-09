@@ -12,4 +12,5 @@
 <img align="center-center" alt="Fabio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 <img align="center" alt="Fabio-Python" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=53&color=currentColor">
 <img align="center-center" alt="Fabio-Python" height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=53&color=currentColor">
+<img align="center" alt="Fabio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>

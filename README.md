@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  :triangular_flag_on_post: Essas são algumas das minhas habilidades!!! :triangular_flag_on_post:</br></br></br></br></br>
+  :triangular_flag_on_post: Essas são algumas das minhas habilidades!!! :triangular_flag_on_post:</br></br>
 
 <div align="center"> 
 

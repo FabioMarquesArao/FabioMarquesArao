@@ -1,16 +1,16 @@
 
 ## Olá, me chamo Fabio!!, Bem vindo ao meu perfil GitHub 👋...
-</br></br></br></br>
-<div align="center"> 
-:construction: Este perfil está sendo desenvolvido... Más voce pode conferir meus projetos!!!:construction:
-</div></br></br></br>
+</br>
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/FabioMarquesArao](https://github.com/FabioMarquesArao))](https://github.com/FabioMarquesArao)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomarquesarao/)](https://www.linkedin.com/in/fabiomarquesarao/)
 
 
+### Sobre mim
+Sou Python back-end Developer | Web Crawler Developer Jr. na empresa [@turn2c](https://www.turn2c.com/).
 
-<div align="center">
-  :triangular_flag_on_post: Essas são algumas das minhas habilidades!!! :triangular_flag_on_post:</br></br>
+:triangular_flag_on_post: Essas são algumas das minhas habilidades:
 
 <div align="center"> 
 
